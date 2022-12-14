@@ -403,7 +403,7 @@ class AstroMigration(AppBuilderBaseView):
 v_appbuilder_view = AstroMigration()
 
 v_appbuilder_package = {
-    "name": "Migration Tool 🚀",
+    "name": "Migration Tool",
     "category": "Astronomer",
     "view": v_appbuilder_view,
 }
